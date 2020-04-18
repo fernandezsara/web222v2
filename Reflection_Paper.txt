@@ -1,0 +1,17 @@
+//======================================================
+// Name:           Sara Moreira Pereira Fernandez
+// Student Number: 124951195
+// Email:          smoreira-pereira-fer@myseneca.ca
+// Date:	   April, 17, 2020
+//=======================================================
+// WEB222 Final Assessment  
+//=======================================================
+
+	Responsive Web Design is one of the technical solutions for designing multiple versions of the same website that meets each variation in screen size and each of the screen resolutions available on the market, so Responsive Web Design seeks to program a website in a way that the elements that compose it automatically adapt to the screen width of the device on which it is being viewed. Responsive Design is composed of hundreds of elements, from font size to the use of plugins, they need to work in multi-screen, a responsive design includes:
+	- Adapt the page layout according to the resolution in which it is being viewed.
+	- Resize the images automatically so that they fit on the screen and so that they do not overload the transfer of data on a cell phone, for example.
+	- Adapt the size of buttons and links for touch interfaces where the mouse pointer is replaced by the user's finger.
+	- Intelligently use mobile resources such as geolocation and change in device orientation (horizontal or vertical).
+	- Simplify screen elements for mobile devices, where the user usually has less time and less attention during navigation.
+	In very practical terms, Responsive Web Design is that website that, with the same layout, fits perfectly to any resolution in a harmonic way, passing the same reading experience to the user, regardless of the device through which it is being accessed, that is the relationship advantage among the many web technologies and responsive design.
+	The technologies that I used in my responsive design were Bootstrap and Modernizr, with Bootstrap I created buttons, forms, tables, dropdowns, etc., and with Modernizr, I used to detect the resources available in the browser. I learned that building web apps for different devices has many advantages, for example to improve the user experience and to increase the speed of the page.

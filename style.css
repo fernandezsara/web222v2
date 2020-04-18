@@ -1,0 +1,39 @@
+body {
+  padding-top: 56px;
+}
+
+
+.row .col-lg-3 {
+  background: #f2d53c;
+}
+
+.row .col-lg-9 {
+  background: #c80e13;
+}
+
+#product_category{
+  color: white;
+}
+.filters a{
+  color: white;
+}
+.card img{
+  margin-top: 10px;
+}
+@font-face {
+  font-family: Roboto;
+  src: url("fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: LexendGiga;
+  src: url("fonts/LexendGiga-Regular.ttf");
+}
+
+.list-group a{
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+.card-title a{
+  font-family:'LexendGiga', Arial, Helvetica, sans-serif;
+}
